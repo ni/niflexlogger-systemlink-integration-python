@@ -22,9 +22,9 @@ Installation
 ============
 You do not need to install the examples, but you can install all the
 dependencies of **niflexlogger-examples** by downloading the project source and
-running::
+running this from the project directory::
 
-   $ python setup.py install
+   $ pip install .
 
 .. _usage_section:
 

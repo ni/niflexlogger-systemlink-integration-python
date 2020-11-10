@@ -1,17 +1,17 @@
 ===========  ====================================================
-Info         NI FlexLogger Examples for Python
+Info         NI FlexLogger SystemLink Integration for Python
 Author       NI
 ===========  ====================================================
 
 About
 =====
-The **niflexlogger-examples** package contains examples for using Python to
+The **niflexlogger-systemlink-integration-python** package contains examples for using Python to
 interact with `NI FlexLogger <https://ni.com/flexlogger>`_. The package is
 implemented in Python. NI created and supports this package.
 
 Requirements
 ============
-**niflexlogger-examples** has the following requirements:
+**niflexlogger-systemlink-integration-python** has the following requirements:
 
 * FlexLogger 2020 R3+
 * CPython 3.5+
@@ -21,7 +21,7 @@ Requirements
 Installation
 ============
 You do not need to install the examples, but you can install all the
-dependencies of **niflexlogger-examples** by downloading the project source and
+dependencies of **niflexlogger-systemlink-integration-python** by downloading the project source and
 running this from the project directory::
 
    $ pip install .
@@ -70,8 +70,8 @@ Examples Overview
 
 Support / Feedback
 ==================
-The **niflexlogger-examples** package is supported by NI. For support for
-**niflexlogger-examples**, open a request through the NI support portal at
+The **niflexlogger-systemlink-integration-python** package is supported by NI. For support for
+**niflexlogger-systemlink-integration-python**, open a request through the NI support portal at
 `ni.com <https://www.ni.com>`_.
 
 Bugs / Feature Requests
@@ -81,6 +81,6 @@ To report a bug or submit a feature request, use the
 
 License
 =======
-**niflexlogger-examples** is licensed under an MIT-style license (see `LICENSE
+**niflexlogger-systemlink-integration-python** is licensed under an MIT-style license (see `LICENSE
 <LICENSE>`_).  Other incorporated projects may be licensed under different
 licenses. All licenses allow for non-commercial and commercial use.

@@ -47,7 +47,7 @@ setup(
     keywords=["niflexlogger", "flexlogger"],
     license="MIT",
     include_package_data=True,
-    packages=["systemlink_integration"],
+    packages=["examples"],
     install_requires=["nisystemlink-clients"],
     tests_require=["pytest"],
     classifiers=[

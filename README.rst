@@ -47,7 +47,7 @@ topic for more information.
 Examples Overview
 =================
 
-* ``systemlink_integration/``
+* ``examples/``
 
   * ``list_all_tags.py``
 
@@ -77,7 +77,7 @@ The **niflexlogger-systemlink-integration-python** package is supported by NI. F
 Bugs / Feature Requests
 =======================
 To report a bug or submit a feature request, use the
-`GitHub issues page <https://github.com/ni/niflexlogger-examples-python/issues>`_.
+`GitHub issues page <https://github.com/ni/niflexlogger-systemlink-integration-python/issues>`_.
 
 License
 =======

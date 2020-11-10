@@ -14,7 +14,7 @@ class PyTest(TestCommand):
         pytest.main(self.test_args)
 
 
-pypi_name = "niflexlogger-examples"
+pypi_name = "niflexlogger-systemlink-integration"
 
 
 def _get_version(name):
@@ -39,7 +39,7 @@ def _read_contents(file_to_read):
 setup(
     name=pypi_name,
     version=_get_version(pypi_name),
-    description="NI-FlexLogger Python Examples",
+    description="NI-FlexLogger SystemLink Integration",
     long_description=_read_contents("README.rst"),
     author="National Instruments",
     maintainer="Ben Parrott, David Curtiss",
